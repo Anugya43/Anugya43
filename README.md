@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anugya</h1>
 <h3 align="center">Aspiring Data Analyst & Web Developer</h3>
 
----
+
 
 ### 🐼 About Me  
 - 🔭 I’m working on: a **Fashion Recommendation System**  
-- 🌱 Learning: **MongoDB, React, Data Analytics**  
-- 🧪 Recent Projects:  
-  - Fashion Recommender  
-  - Banking System EDA  
-  - Web Scraping Top Companies  
+- 🌱 Learning: **MongoDB, Automation, Data Analytics**  
+- 🧪 Recent Project:  
+  - Fashion Recommender and analysis
 
 
 ---
