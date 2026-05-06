@@ -31,7 +31,6 @@
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugyagupta43&layout=compact&theme=tokyonight)
 
 ---
 
